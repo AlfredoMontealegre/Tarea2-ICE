@@ -1,0 +1,14 @@
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.AssemblyInfo.cs
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\bin\Debug\net9.0\Asignados.exe
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\bin\Debug\net9.0\Asignados.deps.json
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\bin\Debug\net9.0\Asignados.runtimeconfig.json
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\bin\Debug\net9.0\Asignados.dll
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\bin\Debug\net9.0\Asignados.pdb
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.dll
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\refint\Asignados.dll
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.pdb
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\Asignados.genruntimeconfig.cache
+C:\Users\monte\Desktop\Trabajo2-ICE\Asignados\obj\Debug\net9.0\ref\Asignados.dll
