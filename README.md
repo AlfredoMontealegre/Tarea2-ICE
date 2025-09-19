@@ -1,2 +1,5 @@
-# Tarea2-ICE
-Ejercicios en C#, tema de funciones.
+## Trabajo 2 - Equipos
+# Blanca Zeledon
+# Andy Rueda
+# Alfredo Montealegre
+# Christopher Santana
