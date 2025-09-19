@@ -1,0 +1,7 @@
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb

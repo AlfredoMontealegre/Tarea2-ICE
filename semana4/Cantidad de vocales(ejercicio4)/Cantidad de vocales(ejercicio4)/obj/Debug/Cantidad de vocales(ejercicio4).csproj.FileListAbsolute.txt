@@ -1,0 +1,7 @@
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\bin\Debug\Cantidad de vocales(ejercicio4).exe.config
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\bin\Debug\Cantidad de vocales(ejercicio4).exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\bin\Debug\Cantidad de vocales(ejercicio4).pdb
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\obj\Debug\Cantidad de vocales(ejercicio4).csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\obj\Debug\Cantidad de vocales(ejercicio4).csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\obj\Debug\Cantidad de vocales(ejercicio4).exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana4\Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4)\obj\Debug\Cantidad de vocales(ejercicio4).pdb

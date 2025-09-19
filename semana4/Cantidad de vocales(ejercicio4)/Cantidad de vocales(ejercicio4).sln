@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cantidad de vocales(ejercicio4)", "Cantidad de vocales(ejercicio4)\Cantidad de vocales(ejercicio4).csproj", "{8F4D8F5C-3C64-43B8-8F05-746E4C1927F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4D8F5C-3C64-43B8-8F05-746E4C1927F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4D8F5C-3C64-43B8-8F05-746E4C1927F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4D8F5C-3C64-43B8-8F05-746E4C1927F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4D8F5C-3C64-43B8-8F05-746E4C1927F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3BD29A-09A9-490C-90B0-E6303C686C24}
+	EndGlobalSection
+EndGlobal
